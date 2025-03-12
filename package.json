@@ -1,0 +1,22 @@
+{
+  "name": "sapui5",
+  "version": "1.0.0",
+  "description": "XRechnung",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xaption/xr_sapui5.git"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "Daniel",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Xaption/xr_sapui5/issues"
+  },
+  "homepage": "https://github.com/Xaption/xr_sapui5#readme"
+}
